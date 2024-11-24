@@ -3,3 +3,4 @@ Gitの練習をしていきます。test
 git add
 git status
 
+git status
